@@ -1,1528 +1,1528 @@
 [[CImGuiPack]]
 arch = "aarch64"
-git-tree-sha1 = "9d9048fea6a7d22a4b5459aaf5d4ba3ae4dd388e"
+git-tree-sha1 = "2f11e90bf902d30e3cc150ce172d8def07de83d0"
 julia_version = "1.10.0"
 os = "macos"
 
     [[CImGuiPack.download]]
-    sha256 = "4d6d960caaa19e4eda50b625b4df1099d7d7de6945a6cb84a2535fc9f10f6cc3"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "e9f96080f4dc84ce89983a39fb6af70dc63272bf8d0899bce9be98970a182509"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
-git-tree-sha1 = "ab8033054ae39dadf55e503cdce001541e87818a"
+git-tree-sha1 = "fb2428f32879befcc694b70e347ca59db2be767a"
 julia_version = "1.11.0"
 os = "macos"
 
     [[CImGuiPack.download]]
-    sha256 = "af793356c3780d03034765ee956cfd7519b49d24d861fecc67430681c5630b6f"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
+    sha256 = "8764fd0595491870131d4b0bd68204f5920caa1a9dd824b18c02e8cec9da22c4"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
-git-tree-sha1 = "6d2a451713467ceb293278f7dba8dbc51a8b8b3e"
+git-tree-sha1 = "24de5c4794b610fc629e387d9b5462bed33fc8c1"
 julia_version = "1.12.0"
 os = "macos"
 
     [[CImGuiPack.download]]
-    sha256 = "dc65b5ecf716f88208683d250fc751fbc44f5c9de7f874a6be2fe410f5a9fdb9"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "52a648df64ca0a3f2664a11bb72e2b5a643ede5b4d312becfce70193e7b230fa"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
-git-tree-sha1 = "042970abcf56e59c3543ae38192c088479d117e0"
+git-tree-sha1 = "023d13cb1b9831aba71ae27a67588b28fac85d72"
 julia_version = "1.7.0"
 os = "macos"
 
     [[CImGuiPack.download]]
-    sha256 = "02b263fa07942ad870782d2908ba724e1cbe83e9390e05498b4e48d11177164c"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "7dc21457d25aa94e13a92376654666bbab51fca54a2f4a1111ca56808eac34be"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
-git-tree-sha1 = "cf6815034d9e85a86c98414572e5de536c72f371"
+git-tree-sha1 = "2fe9bdb2d90d3fb13bc2c6343fe236782e3f913f"
 julia_version = "1.8.2"
 os = "macos"
 
     [[CImGuiPack.download]]
-    sha256 = "86607079a1982d06b480ed3a67b3f9edff09007f465fff44a3fb95f2a57ef858"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
+    sha256 = "86eb4c2f46da1003c245b4e1817aa761c79b7179d84be0ff1b7cc8b8fe4de3d3"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
-git-tree-sha1 = "7645f95ec388bfddc6e2cba3820ca6ca16c0ae62"
+git-tree-sha1 = "df3d270dc3622068a3351a2f004a547f9640dcea"
 julia_version = "1.9.0"
 os = "macos"
 
     [[CImGuiPack.download]]
-    sha256 = "99c319bd7cf8f1c7343998425c4e63b610921f64dda82126791ed14cfa9df8ae"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "374929c32295ce778cd8dab0149532854caae9c1b667bc4532f4db9f144c7a00"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "34febe2799f1d2c30450f75ae91d711dfbec283f"
+git-tree-sha1 = "2b5b336a4c0116f5d52ec12b2bc9dc6aea7239b2"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "a2eb3a7cf2d744874f3f564e4831b3c1d506517ead202c272ed1064e82b6344c"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "751eeefdabe1e4879604d0e1ae067d4a4a3802487191616789585c0f8a78f1a1"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "26d5c6e139f8816f813044eb35e6413813300fe1"
+git-tree-sha1 = "69c433d45359dc2130bbe6896731ada6d316bc2e"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "bb9387f1393a9bf8492c06a1b93aded12c740e60453c3b102d68f39565174dbb"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "9f3acfb241ab557c3c59f18a4de13fd6a306b5868cada5d28e6c762f9ef6b679"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "91aa2cf50c823667e0ce0947b312acad01238939"
+git-tree-sha1 = "25f7b565141c8e2575c8fd6d99e38f1d005e02b6"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "a7097fa2342458b7451bf9b49b75fdc1a91ecd77d4970a151ca96649fe6940bc"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "f9fe33771fdf394aec171b4313e592e698eba45e7bcab0fe2c33c0d4ca6c0225"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f8ea24552dc104e0c8f8ea534bd0d6a12c4c6071"
+git-tree-sha1 = "29d297f97e213855a6d659c2849e34fa28f99453"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "21ac26305a01e9dfb52e36c46e406efbd93a531789f9bb1d5641ff1b11083188"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "68130a84e08b427a70f8f64ce479c9684dd79c5179593280e7721786b60b161d"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e3ea578e8377430fe3d4a1f0a6cb1dcb38c70e05"
+git-tree-sha1 = "a32142f86eab8856ac50e8741425a4fcfc72e54e"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "90c6dd97c87f73295d833fda9ab269e6bdbe180994a2257c2c6c7395dbc8e62d"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "e6e9adf172cb45a3873dde22b4bf137ff32dfa87632207092db05861b1a4f677"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cb57a3c174e8589a0a911fa2e95773183edf10fd"
+git-tree-sha1 = "ad5068f84f783f073436f7142e1f27c28e208522"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "8486fee185d153615cd3f1dad669f6a2b6da556da31e50836733f55c81a886c4"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "973dd5033a95c8e57284285a07141ae94a62dd95bf0c5d3246707ed98179ee28"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e1d4ade520fb195eb14ef721ec9171ee49e9888f"
+git-tree-sha1 = "6404924d6a519c661b0f13c75fb9d3aff48543ad"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "38c749b84db4e0fd197d9b18e688f048958983e3b053ed560335dc25069ac8bc"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "608304b8a601487e8ab1be13311d9dc1edd89d3625e7936029fc10ccc88bbe64"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e083e61db8f12ca5f39360b837c222ff21e46651"
+git-tree-sha1 = "eb56c43b6fcc4e200323bb07231e36dec78771d3"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "4de04988831fae6a50e736875d3a8c0f2622989221ce0d0d4678c39283cf7e5a"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "92df6e21c8763c9a5911223e848d0dbb6478c4073dd5f43f96e42130343ef90e"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "60f4c2d5e8f269e40945c220483956a0a406ea06"
+git-tree-sha1 = "2868b57bb0adfb63234d1bb61781a4aa5707a2be"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "2e1bf28ea7fc494a60bdc30998fb87bf59591d7c7608cfb73649ffbde26faa31"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "d5bda89449479c002915fe42db6813a20047ba91aa24328554f13d63bac3fc30"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fbdd252aaa1a26d6ec32ca1a6eb8cf69298982c7"
+git-tree-sha1 = "072cbdba116737ca14df2df25adf127a19fbd13e"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "5f07042b0c70daa74ca169c13bf9420aade88f7820e409cab5b8931d46ea17b4"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "965ff758beadbcf9de4327c658b61ebc84aef91d818966e8a6581c977fe5a90a"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a1b36f4e8ffd9d1736b1c2136dd9a9680255cda5"
+git-tree-sha1 = "1d5ce6eddddab2c0559c4f2dd78a427b24868cea"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "e5af982ef2a0bd03c0b4d3e14e6e90d206bbd4acc888aa1abe7b57c3ffc6227c"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "4a82a373bca6926caba70e26479f63de5281731d3cb96a231a6106b3cb683d35"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7accf0f5499b4cc7b84078b07b981591b5e5c5b2"
+git-tree-sha1 = "86bd5f6f48e6697ffdf87408efbb8658d0c978c5"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "ba95147fc132836ec451d56b1b68f4144033f1a9ca3a6dc1809df2e109a0040f"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "e64f77f259bb452547ac8d0bbe9a664af5ea11fe297069a98ac5ec4df91d9f93"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dd9d576b6569695dffdee68fe137fb4efdfac182"
+git-tree-sha1 = "c4a30f0ac28cc06038b279bf8b7fa405c6d2cf7e"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "02e5146882d7805806dc7f51c26dbf784407d7cb521007a45a2af8dfe8486ee2"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "788ff56a2c135ad835c45d190ed518f49c9c828384f2f25f9b7ac3e29ecfdd0f"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4ec54827d1891af291a32b87e8b2f349a4f4f4bf"
+git-tree-sha1 = "5576b27b8b5590392b706c1845e8324120127ac1"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "8fa0e4b614ee80cbbd0367d5be3b74308ccb6de75bc1047ff105870e647d9a15"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "c077c5dc45c2ea27910847ace37dcf40701d6e4f5a323709ab6dae09a1508c07"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "804d4aeb57a7792695f4429275b5e85a8ee87a17"
+git-tree-sha1 = "c11d8ba4fa823c1f58fa00c9142ae4e546ea003d"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "90a6877607733e94a73b9e7a43eeb2c54a300cdf3243d439eb147196c6b98135"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "5a75a75880cb58d93300680d3c2ae95655a8be60456b600258a24fd5a4c57dc0"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f6f234fe2b250aab5a8cf7096414028727bfc69d"
+git-tree-sha1 = "09c01141d81aceb63b6a0a3fa2b4bbb22f6633ca"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "d59c4338e2f73fad11e7c13dbd1dbab896f867e1dcf36ffc9d8cb2587d3c805b"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "fef47036eef85394c5f4adcf9b40ca0523b09089a4c8e418f0746498b25e5a52"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "de05dcd608363bce1bb7cda5820c777211e294d9"
+git-tree-sha1 = "c93f28876e0e21a23d840745a4a378d15541061a"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "881dad9a336263b5e55189d322a2c9551fb0c2ddc5e568dc82abf8bc983d9edb"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "f4abd2b011b8ad861fd94697477c92af809caf980037e9d1e61db6b65299ae85"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ed44069fe4992da094ebbbc9ac1d9ce8dce36556"
+git-tree-sha1 = "6a00d1f6bc236600421463b0c0b244c1206ceeb1"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "8a5530c9bda847cc8a5b773630b0f39d4059d3f67a55e909ddf860ad20f0efd7"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "c245ab7dd327ebe34ef988b5312dcbd4f4e07f2d5400c24ed8294e09b82d35e2"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6b71f893a8905668f1cc11f05bf38d8a9b0686a9"
+git-tree-sha1 = "68fd913dbaa9d370ba94ecdd56b171a949fc66b5"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "c9a1439f2c83eec7791e549eb80c1a8b9c311a860692717245d799a139fd1241"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "44fd44e45df26772b68a2fbc34aefa55f127604f54fef541e96bd1f101fa1f3c"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fd5bce912a4cd8bc994e7759a99974e4da36d24c"
+git-tree-sha1 = "1e794623efa55210962d36db96b99b99a8bdc512"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "2c2ab1da7e38034c68d0421a0e8e4f393da6ef8cebf28ec0759d4e1392d7a023"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "2bcfcf874bb901eda4fc4befd7b782fd2ce57bb35246a69ce79fc0c6ddc3ba6f"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "901a5e29a59e61732723a1f6c7e61ec8583dcb74"
+git-tree-sha1 = "e0f6c034ee9337f618e19f903c92e219e4b50253"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "c77c6d3360ea474e6429c545bbc2cb96a15313148e35af3cac71937fd381a411"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "d11bf59c15c1764d78bfccd50d8a5c2d9c1c8ca80122096d84e981178a0d4ec9"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f31b3aca34b5b160fbb6db33ca977b5f2c6b0e70"
+git-tree-sha1 = "1e1f747035b3e2d4bf30518287a454b86a7cdae6"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "44a3d0605b6eb4e5167eb91ff6aef481127760cf9dedaa93c6d742a394c5973d"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "7ce7e1b2de92dfa6676775b379b1e05659ca4c8d07002120e7829e3d980bb7c9"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "49e5589a52aaca826e214853ba5b1e6a4515fca2"
+git-tree-sha1 = "9305ea35885833f6eb185d057a87190cd8c8ebd8"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "ac88bd4eb73cf7ccf32541db170c49ea101bc72cef589346221d76c12a262725"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "a4a3907e2ba65e9b78d9a6ab6c513399ad54356578c4995a94479a957aea74d4"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a4dfdfbd08546cc428e21190c9eb61cccee0f5d3"
+git-tree-sha1 = "4175d806c9c2ed24af3f498ba698feed4f74acbb"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "b2c2dfbff7d2a35a7cc5a65979b5c354bd990fb8c332ba841f6fc8edd3794cf4"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "cbdda4c5941b296bff2f540237c8f48335248fcd3b36b5a76916368aa1e445ba"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "97c2e4b5ed0910d5415befc908482202ff977d2f"
+git-tree-sha1 = "2a8696314aff0099665641108ec0e83867bcb995"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "a579e9b05dc8fc26d31e99c0f91671c49f1661343dea8bfe18ef508e1536c912"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "8bbd345c46b434e4aa891a43b2462f3924909bd8c3c70e728650a6ee3a9cf238"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e5e35fc39bc9e0347902d62ca1fe20a7fbc93ce9"
+git-tree-sha1 = "3cac635b10586b157c689e88c40175efe07ddd43"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "159664d1bdd346bd9107de620e8c3e7ba23ebdf58c8e5f3fc23a5c6739365088"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "a605424c099696dd4a1ae5bc4ce2a62f413be90283f9930388f8606e8786bfeb"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "59bccd6e7ed5f9945e6a3bf3d2b95c283895630d"
+git-tree-sha1 = "977ca72af7afa91f8b36a7e9e82cb6987153df62"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "7ba1db804298c25df962a76b6622f4daa97cbef0b9e34db6d9b6b39f1c3da3a8"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "679538a5a54b55d270d5702702306f472d99b4f5fbfa40b9cb0f84460fde8139"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9bed03b7fe2d744b486ddf7eae921fbea2e16aad"
+git-tree-sha1 = "bda9732ea5ad19bd1b6b259bbc9f309b4aef46eb"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "d2453e84b05049adb10510d697e2395e97f9aee796c38021ae96c6f6e6b2589e"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.aarch64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "ead551dd09d299fe33b3ddaeae0b9cfb23e1281bc73ffb5624f8c8fee42ad9b6"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.aarch64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
 [[CImGuiPack]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "73887d5eb4958f9ae475ed67f87dc408e926820a"
+git-tree-sha1 = "1293829e98f06b33100c66da4467b4e2cd0b9abd"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "206c0dc76479813bd78e19e28ffdd9b4cb4205df268ca6e7047c4874a89e0d63"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "0cb59263c48fa6b1ddb6805b876716016bc07e7f5e1c3ce314f84c8f5e538b14"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ecc53062789eda251aee5dcc5df49f7a7f9d3707"
+git-tree-sha1 = "9c87b93f7f99b90c2674f66d700a78a170c0d873"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "722719cb3d45d131c413f186201de5917536f6126ed06293ad00e791bb59a97a"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "b52350729e5c71332bffbb9f7b4a6288f11a88f6722f47ffb699bd5bc1333efb"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e031e333bdca70f2c19be46c2f3635290e7d1475"
+git-tree-sha1 = "a4e9e2bfe6dc7d8ccab7c4fc23120d90557600fe"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "d411c6a783451962d2b97140686be6254996f0e5b8b2fb96b6c0c42f5fa3d4f8"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "5e18e06cbf90e7697050357964547c95099ffeb1061529f275df1a496c2948fa"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1c07e6d247b8be18f332e5c067f74bfb5e16f843"
+git-tree-sha1 = "e3724c58d0b6a732c2c272c31a33baa327966df9"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "d886fbf45120bb9997196ffffb4bdc41ef2ee7bbd06dbc7d32b44be5ac89b132"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "39d5797abdd3bd08507b77900efa9067236e7c7a7ab7fb9fd7df8e7fc5f0d3d4"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7b86a4573162dd2f1cbbfa5cd1dee3f6e9d96369"
+git-tree-sha1 = "c1fc4ec21adb0a95e2c8cfc9e34e97079e53b903"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "445c5b1976c12e23f584f764f108d4089bdf4d219629d8d21c86b270395f6d7a"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "521aadb0fa2cc94151d0cbe5015f43df3bf99bc37ebe5644ecd22652cc4790c3"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "93d7e0b5140c4ad6a9940d980c92b114958d2852"
+git-tree-sha1 = "822abc109f52ec8b7a84e1eaab06bb4f75751ac2"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "17bf8b73fcaf4aa2bd8a4e93ee41c4d0312c669231db0252cff5ca8b1481f05d"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "9742f2abcafe2e916be2d567d14418f0e36a577fff026319a4505a24c57f2df7"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "85f0b9a2346a16d0843e1cd467c99d23378e58d1"
-julia_version = "1.6.3"
-libc = "musl"
-os = "linux"
-
-    [[CImGuiPack.download]]
-    sha256 = "8ef9ab738b5e50180f9d11acb8f46b96d2245068afcc14d6789dc07479df27d7"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.armv7l-linux-musleabihf-cxx03-julia_version+1.6.3.tar.gz"
-[[CImGuiPack]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "b5496b930f026116dd1e4ae995fa866d05bbb4e9"
-julia_version = "1.7.0"
-libc = "musl"
-os = "linux"
-
-    [[CImGuiPack.download]]
-    sha256 = "fca8e0f87e8dcd13caa21c75ef9be74ad9c232461d218edfc6c65e5f3aab3c7e"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
-[[CImGuiPack]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f7763fa66f4116127a305efe4ccd2641d4b21a51"
-julia_version = "1.8.2"
-libc = "musl"
-os = "linux"
-
-    [[CImGuiPack.download]]
-    sha256 = "9bfe28cc732808640d80b895c58452530e55b3144bf6f2644ac17949477add20"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.armv7l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
-[[CImGuiPack]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b8854daf1567435f58b554a07f36da985f026ed6"
+git-tree-sha1 = "e2cb14985c20d365e5e08bfc8a38890a1ff77e15"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "42ec201fc55dfe894870b0a944faae75bbdf48487d49ea1b66c5031f930aee18"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.armv7l-linux-musleabihf-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "3c1ea62d00aa98412093c3dfa0bdd3bc6ff2993a10d18aec0fd325187c6e0884"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.armv7l-linux-musleabihf-cxx03-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "armv7l"
 call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "573d7d83fa248416714b89f5e95539105c8a1c61"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2f6716fde0472f544195665af0ee300f7464ed4b"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "15cfe9f93c2b57b32784281e2a647ef03eb5ae7122f8e830bebc85ad892fb7cd"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "d1103deab4b34aa898b949aef6a12edb119c1ac9767e86c0150e473598db1a16"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "armv7l"
 call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e50fd9274f99e00029be2c496f57c180544c3518"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f61f07f2f1a0b055733e0ebdeb3aafd23757fc29"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "5c4c11449c2d8c4171f9b5b4fb1d213716a82add7d85326a55e741448ddbec5e"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.armv7l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "288e62439ce1492ed48b96e33e7c9f39bc03f6e18139890266cc458238c85af3"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.armv7l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
+[[CImGuiPack]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d01e48cda6540617aae8508baf83ee86a8c27adb"
+julia_version = "1.6.3"
+libc = "musl"
+os = "linux"
+
+    [[CImGuiPack.download]]
+    sha256 = "3c75aae742aa4ef4053390d411142f52e4438df68cde20ddc39399bf92c8061c"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.armv7l-linux-musleabihf-cxx11-julia_version+1.6.3.tar.gz"
+[[CImGuiPack]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2e08847dbc7d11f55dabc8c33cf37f868c574963"
+julia_version = "1.7.0"
+libc = "musl"
+os = "linux"
+
+    [[CImGuiPack.download]]
+    sha256 = "6a03701cab6350e711c07dbc66c3e0cbe54f407e03ce46a800300db423a419b8"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
+[[CImGuiPack]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ad61d70c4a187b702d021304121e2c236a98d449"
+julia_version = "1.8.2"
+libc = "musl"
+os = "linux"
+
+    [[CImGuiPack.download]]
+    sha256 = "db14ed3f267969c418af7ca0da0cc83e480db093caf3c509a28f3382ababbc47"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.armv7l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9ffb3156852faa5fd59f15f2238ecaaeb7785458"
+git-tree-sha1 = "c5726f4b4c98b4c57bdafcb75548a6444a125f46"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "2875f94cc0146a716095a8d3561dd339f3aed32458147ce7169f5b085a79d8eb"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "bbc0e4f11dc33f1b8b6624c8af8ae42d63d180abcf399d8df7e164b80a26b8ff"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "000825bb7c9c21a395c16afb57e7fa4a0dc7f5d6"
+git-tree-sha1 = "3a53454735ddc78a0441e33f6285281b1a88bf3c"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "9b842d88d4fd74b4f055e4f2e67749c5dee35d2bffac99f34a78bb65a83e0eff"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "d250a53897d79062efc55c61fad73d5b5569a27c055e5fec1b703bcb3d24de3e"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "249df02b36bc1fb29b08941d605fe40edab3fffc"
+git-tree-sha1 = "eece65471a4265c90a52698545fa665a570eec23"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "93b18a2a3152a70389915ba361988e3c25ea12e5b9904e4be3eb0247c45c1385"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "e07fd8e2034c3aba4ab831137c93ae726910615c92a22cd5ad0d4ed01049b9a1"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e5db9f14bf733cff38a19129a959f06ea2cc224c"
+git-tree-sha1 = "f250fb70dc53fd4441788bb0eff3051384b3fcb4"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "f9a00b49533719b047721dc396d613766a6fd445795b5eb0e6845bcf40885bd4"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "0fe82f6cab0eaa7755c30d93e02034b4072a7e3f2e42fdead8828ed880278761"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "27252cd5b1c45883e10733ce83f95761d10d3b9e"
+git-tree-sha1 = "b2ae79eea3603de6b13daaaa554f89223efc9036"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "ab2c76506475b1cab83bf4046c86f00eff59052e468fb7166c51968eea9b6613"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "39523d30e870855f9577d887b24d3197b2bae7d6d92d6365702398fbfd967f44"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "06a40bd6c6e0e82500ca412f2a81359eab343e80"
+git-tree-sha1 = "a7588757a5d3764bcbf9318f4b0faeb4353b47aa"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "82fc2fddbac91b35923017738c0e4e1ba25543bc744466b7fa8650057ad7e04d"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "aa926b0960f9342d6c9e82c25fdc99f89d3d946a0a4f37ccab1c324b1bab43c9"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "83fe8339f71d6144e114dc92f9d1ebfa344e9490"
+git-tree-sha1 = "04a683bda28a372ca31568247905651b1d715318"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "789620ad3e284462fbc51b67eac5705ad24fd10e73eea292930ab5a4b35d4a08"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "22912175512331aeb8426a0d94d8e6bad4295117883126d63e294f951f0accb8"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "26fc4e8001c96d80635dde0f171edc377d369220"
+git-tree-sha1 = "e8ca19146b76009a249efcc4831b42fac7b8ccd5"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "19ce9b23628cb63f2fcdb9474cfd2a6f3f3139b0a0846cec18e613f249a7a0c2"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "3e0daf550f250b5a5f8e9c9b6d13cfccb02e8022b7707a7ce658e54fd61503c4"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4f5acdc7a4032e1c9ad89a2bea2a4454c290a81f"
+git-tree-sha1 = "4b07ffdb4ddd4f979d45d17fb73f969cade01797"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "4746b2e4cbfd467b01cd65e4c7b808bbf674f04015db6796e2449ffd78117304"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "15d76bb4d663da77523b006e638bfbed1c5ee592095d6dd7ad55d70865bc823b"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5b1fd2d509caa063d7ff5182cb25a08fc6d4add1"
+git-tree-sha1 = "6dc8c05c9ffc7e208fb729ccaad59cafe3d0f21d"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "a669287c99caaddcbdf16411818869ae20b3bcff1a26357f6318a503decd0af3"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "37824480d804396ede176e5bd5d451aa4b419d1189d2f2f5094070bc9e89998f"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5cf8ab0d761f97ddfb2cf2d49fb8b43db21f4bcf"
+git-tree-sha1 = "de0a5c3b28d9167b6a5865001299ae908d3121c7"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "5cfb767bf4f715642bcddcee25cca9aa36d5955fb2fdd1716b3dad7e7e268072"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "2d9376ace577b845d9895c368e66b5f3fa52f9f909d918eb4818f2f59827e79c"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0acb3ef5132864d9ff05f587c5a44752ab1ceec8"
+git-tree-sha1 = "e7c516f94ccd9051594d63a3cc8cac881ad9813c"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "7e22a4019a2736e70d12f9bb97134421db18a7b9a86998710fb7b348ef90b071"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "95389b8e0907342e3a0e158fe866c4ee8c01d8a3fafcf975885b936cf58cfce5"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5186206ad10728b7c73dc3b1b83256f08f69b78c"
+git-tree-sha1 = "b659f56cc78351367168968cbcf4713f390e2aee"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "ef8443b58efba26d18013bbabac496cdfe36199c54a478baeb650adec43f074a"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "dba4481c1386595da6e6a1a6a886d74f928bb9cee2ae86216d048eb8d9713a70"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6ffbce58d7b6af1671489d5b433fb6e059c2ce6b"
+git-tree-sha1 = "743baace7c03a1b8fe06b7aa16d4eae7170df3a1"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "1bfdd7d007ef32c6c279a588bab530246e1f08137715a4c2884f7638cf80d85c"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "ca7e70f67f96b670348ef12a92e6aa1b0dee6776edb25d6ab915299ad9f8b5bf"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "180412c5864eb4e7d604a01fd57e05abd804a5ff"
+git-tree-sha1 = "dda012a7aec30a8d42abc2279a412de2c1f540e5"
 julia_version = "1.10.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "167feb107537a3a2d563b5041e2e34f3389615e1d05dda1369d2368269a3c7bd"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "de2f87307c3a5aec3d55d8f85872850eabf80433340dcba134bc1918bf2f8e5d"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "28a69fb9906f9dc39194d17ee1f91eb70ec19a48"
+git-tree-sha1 = "d7e13747814d8c7963143d0f542d96f6d6291676"
 julia_version = "1.11.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "a1cc89efeb098940486a025c9191e1c70641425a0a5c85ecfa263ca3b801079b"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-w64-mingw32-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "ab4ffd2e3754e8cc6677044a461cd366dda65271a834027ef4cb6136892bcce4"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-w64-mingw32-cxx03-julia_version+1.11.0.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ba921c1c5c28efd79dcecc134c98c7835c56b077"
+git-tree-sha1 = "823e12e6b69297d610347c913b7af4005cb5b178"
 julia_version = "1.12.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "42090c7315eca06effdf1219fc891312da79e5a2ff2370b53fe6d4d6f0e92c93"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "0971294f5f75375d3bbc15260dbaa2d83fb2307c6c52eb0416009a6dbb03c28c"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "12a37246e9ec647893fd06eadd86aefcef684106"
+git-tree-sha1 = "f6003b3344e3318588d7482dc1577be064198235"
 julia_version = "1.6.3"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "a06a889145fe9e4a9dacc3a81199d965a165a7b38af41ebd7f8bb05a91bda6fc"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "b954e09ea7f2168da0785da35aae2689b5598acb8e8a5af7c4a09c0e1696b716"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d23b4018c5e8bef5927f60c30f775e8ad3b4d2f9"
+git-tree-sha1 = "32b4073d8ed0492eace84fac1854906e780b0633"
 julia_version = "1.7.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "f67919c83092b0245ffbaae4e800c3498e4576f3a77247987e24737baa144392"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "f65cad9e01e979bd55a4630c38a8c87ce65b59e00af20ad9094a1a808e629d53"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "09c17c2b68741dbb765e3520278dfe732461f50a"
+git-tree-sha1 = "1db6f4e5b5c7d6655d2ff16ace5327c4cd69abc0"
 julia_version = "1.8.2"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "ec750391c189415d7a3c728ab2045aa2a6cdd902841a8c264a6eb7013e8a0e30"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "62f75c3ec8f5c9be40c132b921c8cb93c7cabe1d1cbfc6a67d569c5e970c5538"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d3053ad3b0a4d732c5019907b418da71b122b551"
+git-tree-sha1 = "62acf5c6c8a1be9c084c38bd469d1fcc26749085"
 julia_version = "1.9.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "804b7478d5db986bbe859d0a8cb0d4285543d7e26c7ec842dbe9bd54c0eb0d07"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "3c75418ee1c604c7180f2213443d21f091934d04abbb145b2f645bd49f8913be"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "25bb05746be10d6b684c309ae974e68e83bd1551"
+git-tree-sha1 = "2971a400a2cab2dd3b44d425982a1c287f49d19b"
 julia_version = "1.10.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "de7a7df82ae47879e6189153bef45dfa4a2354a8ee17cebd7bb7dd7ccf1211ad"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "44cf3261e4ddaa8fefab96b100cf7c5281dab5134aaca268db17c9665690b7a8"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ef6394d9693b1d9a0b62709b4f5e5565f184ec51"
+git-tree-sha1 = "9b086bb32cf91c6e8de6e8ad30deb99f532391c6"
 julia_version = "1.11.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "cfcfaee0ef71f353d4f162c5d91145a118a831b09edd7dceeaf4cc20580431aa"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "a7732f9e7b6e087b1b2b7d11a223a29a563e65ceb208cefc46d6b4e45bdfa155"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ae154b5ebbddd2f2057de2b2381036e56d66708f"
+git-tree-sha1 = "1462dc13c142a11786ea42e7e638501b1ab6a821"
 julia_version = "1.12.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "da3d5096910284c0019757fe7dd92534eed4a78367ada673fe5a59daf3f70223"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "e09cf2d40612f8e514caf1153b5e11af7c9fc85429ec32d5bed0df88fe740510"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f205c8750708eb204734e9742ac1558791eff794"
+git-tree-sha1 = "decfc574d60cb8559fdb36655441cf071e128c8a"
 julia_version = "1.6.3"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "1901284e4c07117ebbd1dd10942e5d9dbf606b5645174f5f67a3003c8c922218"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "34142a03191dde7317238340673925b149276953835aea7500f3ccd9941c022c"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b3a91ad98a8ad827591022fe16e4c5afb8230dd7"
+git-tree-sha1 = "617cb638ab59dfd71eba59d9805305989e636042"
 julia_version = "1.7.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "38d714459e6c96b1e142dad784126b2d04bb0b6888f2b1c9e897ff75ac588237"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "74845c6317f793d1f22ccb2e95d9df5a2e6df96fc2a899b9d6f54c042066cbc8"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "808f894fe83fa86ae522aadaa35f3c82ad904908"
+git-tree-sha1 = "fbc38d6d1aa8b7c764a6988b85908ac642d22898"
 julia_version = "1.8.2"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "89c61bdcd6fb08cf7b7a14a15aac6ad40e041d1f82da34cc6c726da3f26a3a55"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "391fc20afe5665cdcae5fdf888d864775c44442d1e10a028c143ee26767a716d"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "69f76b26d673b3ac1c2711257123f65cbafc347d"
+git-tree-sha1 = "43538ccbca75de082bda8ae3a44ea2b087e7eb42"
 julia_version = "1.9.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "9c237cbf136e21662c7561d66f098accee0d4af7a2b324863cce3d08dbef4096"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.i686-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "711d16da9d425629706de81476dfd0502a776e59e436574a995bf3500b6ec990"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.i686-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
 [[CImGuiPack]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5542472f61e2c7a0c1c024f3e28c798f11acda0e"
-julia_version = "1.10.0"
-libc = "glibc"
-os = "linux"
-
-    [[CImGuiPack.download]]
-    sha256 = "ebb3e01c0e37a090cbf6001fde8f5369966ea475567fa2c1bbe72736030c8c6d"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
-[[CImGuiPack]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "10e016d82ca61b2c59dd2f46101cb276aa8e6edb"
-julia_version = "1.11.0"
-libc = "glibc"
-os = "linux"
-
-    [[CImGuiPack.download]]
-    sha256 = "e55ff3e6c937f17f671d26e9f4b871ebba37c7b25d072522a0b6f03bf21e7a38"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.powerpc64le-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
-[[CImGuiPack]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ee80d1fb31d5e6dfcd645ccdeee550e8424eda39"
-julia_version = "1.12.0"
-libc = "glibc"
-os = "linux"
-
-    [[CImGuiPack.download]]
-    sha256 = "44d4f80c707d681f5c36c16abcfa85854b2fc52c16378d2605bda8e1eb538adc"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
-[[CImGuiPack]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "9b5ae4401d130fffbce571d0f7137d8adea1bdd3"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[CImGuiPack.download]]
-    sha256 = "9c742089f7a5a371edc7af974ef26546e07b44bd43a355b762906516d0bc6b07"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
-[[CImGuiPack]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "5539fb998e07c8376a234e86f74375e84d539eec"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[CImGuiPack.download]]
-    sha256 = "5aaf78b6a087969c6f645864571bd869a1e30652a7876fbe58d485683c66b171"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
-[[CImGuiPack]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "468ad35ca3d47345ea5b4f88f911e6e8f9591cd5"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[CImGuiPack.download]]
-    sha256 = "b27d14a63b1c202d5ae603d53379a84be569750338265565dd54d57ae2e1abb7"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
-[[CImGuiPack]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "2375cd8c27b74becdcb2e6ee7f5176110c9d5e17"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[CImGuiPack.download]]
-    sha256 = "4dacf0263d38428df41455f149fb71a759c1f56bac3c62963827a18b95633ef1"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
-[[CImGuiPack]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a7ed45714590dfce43afe6c5d75d074f7eee817d"
+git-tree-sha1 = "34dac046824a7f68128c322db5b267707da66d47"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "9632f5b0e57950520067c1bdf885e98a44ef24c569fb44d7bbf499bb9eba17ae"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "1a5d3fddd4a6ded6e25d4462b6182041e667924c30973b170ddc8b7d11a21d6e"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[CImGuiPack]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "01c68705155e7c58ff9a9f5edf8b599db24ae21e"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cb4e414378624abbe2daf6e52635c3d2b97cb626"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "88774c741d7735b817755d41b5bffb3bf06abdfd547f19d685b9d98425c1ac0d"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "34540783f95077995f4a62292d981e8453bb9521a5d2527f222e30bdb21c2d2d"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.powerpc64le-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
 [[CImGuiPack]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "bc46bc311caf6b03fdd93f62b3daaf82048dd46e"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "73e2004e7b8d94b1e22ea067261466717900c114"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "90fcf93a59930dff38ef38708353d77e41049f8e893b90d2c5cb123848a45f6b"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "2c0b7fe0f43c3884021b4970adc6b76cb0b02269cda18ab4b568148ee4d75af3"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[CImGuiPack]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1838b384a61fd160c3673c56b5af3fb9c8010078"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e43f880819fd78944a333b17ccbc34451f7e4bb8"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "8378c761732433a362704fe94233e741f57e83476e8323a090536114137e0dd8"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "0cbc1558a2482fdfd0202966e2914ef301c73d5fbfde8ac02e74a824c969feb8"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "201a4fe638d2ccd635c05d20b8b88ce9e55708e6"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "220f23e08d24356407829042977ff760d80ddf8e"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "fcdc5e1a7983081b527dd9eb361acaf8f6e1d1425ed023e79d604f200f2f0a65"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "0f7e2c86934963813cb91d2a7c78c7c2a6906b7dc6ec7faebf04ea4eb0573b08"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "4b3b277beb9189c04e6895193e8147e4bacea8d3"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8e4ad19a9b7250b1deb1e485a9c9d6b86eadeddb"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "0740492255d6b06cca92bd28c360800ffb74fbd982de592ba2a76d2a3431ca8d"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "4933909e7b39744f330c84c8dd9db3e2a3e01d538fb177ad7b19ace892ee102a"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "ba4afe95bbd3eb7621c793a7318b0f62f94d5be8"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ced0909ba46dc456ec4eb92a1afd3df3b331eb76"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "cd5afd52b70f268c23120d1e0f2e60cb3e761d73b2c63fe842967e1bccabcc7d"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "496f826978a05aefa8d5f1c590d03b46fb829ef7fb9a006daaec969f8ef5ebe3"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[CImGuiPack]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d8a4ee997bb6aaff7cadeffe0ed1ed151203b233"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[CImGuiPack.download]]
+    sha256 = "5a707bb0b698d6cbcb36f706c907936180bac1dc4bcf0958b3106bc337413810"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[CImGuiPack]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8451408750d2f6b35a40c9ad1dd68c717b6ec9d6"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[CImGuiPack.download]]
+    sha256 = "31a787a41e594fe380c3397d7453d5d753c3075572a3351bba15dc861c25e5bc"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[CImGuiPack]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7bfba49ee5eec497b9ff705e1ad942319d332399"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[CImGuiPack.download]]
+    sha256 = "225d25e082894a9d5f2e387eb9bae37136c026b19369fc3ce40de637d84b8ab5"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[CImGuiPack]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b51c14f0f0820a9087ef9a19608c7982c7b12a4b"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[CImGuiPack.download]]
+    sha256 = "b1f9b61e997ceb5f28c7a9c931eace9f991345db0a03f224c2a8fa205fb07778"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+[[CImGuiPack]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2e3afe088d94ab811f93e3e168d42c8db5d7e4ec"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[CImGuiPack.download]]
+    sha256 = "358d90f37aaaaf51caf8c22b9229861ceed121c5c58981058bb110e612d35f4a"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[CImGuiPack]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b233ff4e42f6501237f75d04ebfac0c68f33c4c3"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[CImGuiPack.download]]
+    sha256 = "22a0270e3014561f42e61c813c47e13b88bd65a040dfd83318f2e404b51e9480"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+[[CImGuiPack]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bb57194684692d99dec1d2dc6bc04bb8b63a55f9"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[CImGuiPack.download]]
+    sha256 = "c2ffba75c566bbc6b8972158fa52af330fefc838a15b3d2c992c9e4bd17a1199"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
-git-tree-sha1 = "ed3125159296e1c4a0705f491cfbf04d913b8959"
+git-tree-sha1 = "976902b6aa77fa7523526976b4f542c0f642dd69"
 julia_version = "1.10.0"
 os = "macos"
 
     [[CImGuiPack.download]]
-    sha256 = "c635c49a5b0daed197c54a885035b34f9df31898a4e72b4bf1667ad5336e9ca6"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "172d318f5a96a5c4149e301580f2bfcfd3641476d99b048c1cb920b31ae2ea5f"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
-git-tree-sha1 = "952d777de47599949259cf95a76d50d81138641e"
+git-tree-sha1 = "d668c753e4a549f38e9816c5e17fff23c5732bd8"
 julia_version = "1.11.0"
 os = "macos"
 
     [[CImGuiPack.download]]
-    sha256 = "63972109a4b981a1c8399b3474346a66d190b3d8a44e68dcd22f931237b09eda"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
+    sha256 = "822d548269225fd376de5da3677857ffdc59fe7a66fa4ad066a2ac8a222fb00c"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
-git-tree-sha1 = "e7a0875490beecd99669e1087ff6c86c002e7ced"
+git-tree-sha1 = "6ba358279757200eff213fa7bfe89a2711ee7d77"
 julia_version = "1.12.0"
 os = "macos"
 
     [[CImGuiPack.download]]
-    sha256 = "f08bf34e2f8589842551b64dbba1bc7af105ad54af4602a4e50b7c0d681d83f3"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "6f86211ede33e403edc0ab71508602d9a3477af68cfb142bf6c793b9f1b4b10b"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
-git-tree-sha1 = "aaf1155be7c9637d8f6bb6c326b8d7d1e8a28d29"
+git-tree-sha1 = "e97b6aa53f219d464c772a3b0c7f6bdd0a7603ff"
 julia_version = "1.6.3"
 os = "macos"
 
     [[CImGuiPack.download]]
-    sha256 = "3a2bb7f7a455971f379351d85a784bc7365ef3d736dd936c80e403f7878c22b8"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
+    sha256 = "be6cfdd4e26f4c328f87e1377b1a5554fe3cc12c697034b056e271453be96ab4"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
-git-tree-sha1 = "092f9b5c87aa86f1216b3de7fd251caec460bb2d"
+git-tree-sha1 = "c80f21d806c3df8958477cd769f4a5fc3c77a94c"
 julia_version = "1.7.0"
 os = "macos"
 
     [[CImGuiPack.download]]
-    sha256 = "70c0b7a8857327c2e58476dc7645d8dc6007c554fc2bf156e7f8168f5f1ee43a"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "5a5377f107a79cac97f946560a8fe8c80958ae7b83393e754d18e9a34bf0058a"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
-git-tree-sha1 = "41b450cac1f604eb64f642a4bf7e47061bc2dd27"
+git-tree-sha1 = "d3dab9cbaf5cf738f487c350a6542520024429c2"
 julia_version = "1.8.2"
 os = "macos"
 
     [[CImGuiPack.download]]
-    sha256 = "43d6fa23b630862be7cc42026b01c150af397616373db1ee77fa8e8eecc875ce"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
+    sha256 = "745450f872f6535f4f89d0f555f5fdfe8fcb6f9be16c4a92cf988a4e31b1e3f9"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
-git-tree-sha1 = "2d32aa903953e5d24eca046f3fbf412ae4d04c13"
+git-tree-sha1 = "0cd7a897228c745fe1e14d3854d8f3ae5ff3950d"
 julia_version = "1.9.0"
 os = "macos"
 
     [[CImGuiPack.download]]
-    sha256 = "db128d0bfdb345211743d55e4f188d52e8260eb375da0ee36fa7367fa3e88a65"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "3f2e69ad1b0e4741e15b5a30949453211ddc2208a6beb2184c73f68571dc6487"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "001d4d5727b1a656eb8388846f78b1567e0d08f0"
+git-tree-sha1 = "319ee852ff0605cc785cf9829283c57e9ec984da"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "b9d8eca151351ef54438409b985da743a7ff66aedc6e4802a93cd1a7f857c843"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "3b3fec82c71f795083b82544c39ee56fe66e95dcd00216146e6f496f43d2ffe8"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4e4971c02e7d6bb26f3c1b01355919d622f88e0d"
+git-tree-sha1 = "fdadbea6592bb24cbfa1b9ed658370a046ee8267"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "6d80c552357cfb17f59b10806fb5eb7db789b4e5432e476c8fb9469ae4207078"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "249b562e6ff0ecb2e1443e5b401f81eca490c07e063c75850bc8a34a4ab23f95"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e39066e038fef9ec690107c99585b1829d196730"
+git-tree-sha1 = "ed76a9fbc440f55b5bc08362d89b07c7c35a8486"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "dd74f762c238773dcdce101d02e4e7972ad4b86388d4c1f61888c7c7dbcebb14"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "029365670e746218f84386f7c1220b1df5eb3ff22aa6975f62ed398c7f786060"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9d8d07d0a02269236262b41d75d1bdd4a833dc27"
+git-tree-sha1 = "2880c4a6a2db17c274b47d8caf0d233818af8d6f"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "5bbf80d31aaf718e382846caa3671124b7e5cceb5771a745d1d0573020e6e6fb"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "7cbabf0b165ef33dfea01b532e16566a386b29be6696e8cb61a9d8fd929a6e6f"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "885cdd615138f771164c12de6a8a0d7d430b842f"
+git-tree-sha1 = "36f27a09542a4772ab069c46b9787f48e30768a7"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "3f64ef598c995c5481f2b91e50040e3eb07bc7181cb9be97d870a453d4c85c0f"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "428e0541e626763cf1db90010764531a15c864430b1d4a43679adb92e7e98475"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "767d9021d5063d5ed83f2366e1693f5eb0c8454b"
+git-tree-sha1 = "9cd57961d21dcbfd072e25fedfa45fd6b7ca79f9"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "512a1f897e463471a013e70a8aaa8b905fe0cbe85cdffcdce04624212fe94c19"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "13b488bffc34b4e9fba721838691e6957e88b200148fffed3f2aa3be86ac3e5c"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f13439f2f6b70c3fc8f3802d8f89a49528461e39"
+git-tree-sha1 = "3266c6e760fe4b2a32d454742f616c2b1ba08bfd"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "ee361cebc69732f1db5c694823f26700f3fe993e053c7270e72568f34567cab3"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "0a58c3c71ee335e3d40558573c7b79cfc71716d10f990467786c454599eb2d17"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ea900afb26196d9627bc9ae01399ff01c1c98a7e"
+git-tree-sha1 = "57b166675176e8bc2ed5a84dfeb52232884224ae"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "47293ab43822008e81a24aa12886886a4a2288e7cfeefc2a7fb16cfead25ce4e"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "d5230371153fee1ff1568d0be953943aad7468f417bc33c2e5ec502860482ff3"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a6d1f79c254c46fe5ca39a6e719090b827ec4ef5"
+git-tree-sha1 = "237c164596bf2e0290981da4ced8ba41b1a83ff7"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "fee3b63591e9d736afc2584cbed5959e78b0afe502d3975d8098e6926428c30e"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "f3b3f8751b0edf23679fc628b72d2eb68d9b3f54b79771e133de20b4ade00cb2"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d734d97cc76543bdf7f03d5b42036b9b03298bce"
+git-tree-sha1 = "da62e9427082c0bf571aa07819c71f11bf3ae28e"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "47eb340537b7f3c8738004ed5c4a8d4c29abdd8314450b0f222db58ed3427fa0"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "61eff8cc5a875a54b8861f4fc94cb0f4c8ec77fa029d4bfd56b0619ce9ce08bf"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5bf6f0f8e06533a48896e77c68494b9aaafa0c56"
+git-tree-sha1 = "2e3bf2fa2a28eea0a10119b6207bcd374d035ad7"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "e756876dd5cfa710c737de6f9fb2748cb2229844d3b5d6a135836576baf078d2"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "088e9179fe5a73ac00812e5b3d0a397391a960f72a31a20ae8e8b477fb098f52"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "497b7198875c6eea831f2db31fbf3f09c04c4430"
+git-tree-sha1 = "912581e2d5dea7647db6ea20b6796309a4652324"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "e27a73b90756f0971c412e5f2059371635a71c18e3151a225e7aacf1fe83c38b"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "5dc39a959d449e2fcf8ccdccc960780b8247228c6412645db267dbd3a2dca8c9"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0d543e038fa7e3336ed08976015a533965cd0ab6"
+git-tree-sha1 = "54207ef9a7ecbec53f93fa33d8d89a90f377fb8f"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "17d1a3912bf6b8c55b608952c6b8e00e56152c521a9b217286a9938b8ff98a1f"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "fa870afea126ec8b620f3dc4b23d560baf6385ac926e34401c24a49dd1fa372a"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8e3b9bc4b268d20a9d88820e425b58d68d26e4f7"
+git-tree-sha1 = "bec878b0e939e1ce20391d92e1a91dc0fd001560"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "3c25f096c63cf1dbc55bf7d4943b5790281f6592d61f8c14f5417f1bb766d725"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "c5290db06ac8ea129d5bae53c8645a94d5dbf01e3398908f459f2107de4e4348"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3d36f7cf8b65753ae4bca9b8944d07eae262ef42"
+git-tree-sha1 = "1fa3d5edf6a0f27c4a3d14b6c680e4f07ad18038"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "88ae03cf72217df82c17b105be17311e3cb476caab9efa60e0354c52e4ebf2fb"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "b851b1d885ee58771dbb5ee13cea496eb0de4bc3679fb8145ee7bfe8f8b9914b"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "07aa0f833f4562c01f64df0b3c09a808d3b7c70c"
+git-tree-sha1 = "3462ce88c247d5d9828c13661633cc8ab452839e"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "b06d5f3e85d1d2994a991030bf65aa3a2c445caa40a3b9e41d96d8fba20fdc72"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "6329a2e3ca1f4d047b2feef718aaedbe984fbc998e1c06afe3f09b810bbe642d"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "76f80fe1aa46c2ba2c9db15793d48ba2578b5800"
+git-tree-sha1 = "05436ec0e956b885fd5f4a153fb96ee0ea6ce2d7"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "ffbd0cc209a6744faa17065f4665c1b24a0efdd2aa48e3a61517011b53571cbb"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "81fface1399da0613775bd9ec0c39a5f46535abfca3f8845aa39078915a88518"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6575dfb18e33566557c8534f27705010da27f7ee"
+git-tree-sha1 = "248a09a4ef004c03c720f4fa6389dbbc3bfbedec"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "2cac498a3628b976d5ca4d54b126c7ee627e8fe6c5c0d3e459a12b005d434f1d"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "93645e867ba46f69c4940c6751b44c6c836e1b57261cbaf745c0f8af321b690a"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7936fb7264d4084bd1a89b78922e08d71b1f8ac2"
+git-tree-sha1 = "5d19863f8c426f194741cbf0dfe172d03e8df47c"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "85b7976d504b0be096cbe02b625d68eec1ca1c74b37e7b65231d1e1c1bc2337f"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "8412965141d94b6bd0d1ab4d2dd3254944764fcf971f751d6a9deb44c24323cd"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "40869f7c70c74cbf5adf55ceb145192088b1b707"
+git-tree-sha1 = "0a6ba99a0b8ddecd2fcb4da8a7b513d1d73120d9"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "06f6d07ed06cb36442678d2b72177d14e6bbd949ba87bccd3fd437b3ce47b111"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "f36df1b6ce72af3555a9dce04aea06c08eadc465f04995f6b69607679b854c3d"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bfe4a771046bbe141e9bd9154000f57f98e7f32f"
+git-tree-sha1 = "0e7ad19c7921720040fd827f37d0c1e2b83750ce"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "47232c523881748a27094028ce10185383b34f9fefb8f72af113aaab1e7792f6"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "83c5dfcf5fd8fcc08afbac51b9e9df508f105e8b241e39c5186c543ff1a2800d"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1571694f2b4d097802475be94c76f175537c2f99"
+git-tree-sha1 = "227beb19ee376eb41c38d561a9bd879f5d6fe34d"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "636431c0f50085db7fe4181c13e57f5afdef1479bbbbcdf5ad69f94223dbc122"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "c8bcf61ed8eeddd2251acb1ee7707e211838ed480dfe88f8cdb4910330634298"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "159f4a3596af2bcea3cf4734acdf7dc060e2910a"
+git-tree-sha1 = "335833aae32c0f88fea7f125d29892f89994c6e9"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "afbb58674009692592cbea2f6e041e809213581dc6d7e11f463575aa0e3d264f"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "6df1d83c5e2ca7c13e0eb98c9fff9b36de7186d4455de8d94332bcf2faa84cb6"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "65bad205f98c233e0668cba413a7f0739e142bc3"
+git-tree-sha1 = "d76d936edc0fc4c205396f4b73d875e7bd379a2d"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "48212f65bcb5c3dff22c66ed45bdb2b034af68f16fe0bbb21a2980134ab1def0"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "44941cfdec64e672e1ec98a90f26ed711ce37006f265262b22ece034a780d6bd"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b5a54dbd55a867e11889b84ce2743645d9fd83a6"
+git-tree-sha1 = "d9e70fd8671b1e8325cd8c4b7234239f31bf59cd"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "9ae45e1d9716114eba6406047d60fa642ed54ffc656e5bd408842e572b3dc8f2"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "f39ab86f5889d672533e074f5cae4eaaaece8b6c762a5c01841bc9d6c68602b0"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "601d7bb37b23c6591807970844621c91e3bac7f7"
+git-tree-sha1 = "9e38870c389a74b4e02a16098cc5b1c64738d969"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "b644f275a474725d41c5f38ac3311fc7a529c7db2177fe08e14fe104b68a57ff"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "acb8142e99f905ef0a701750faf533fd13c9c790b6c6f7499d53a7c314a92ae1"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6b83b6c0e1889f6843f3b7bf6086bb4b3657010b"
+git-tree-sha1 = "46d5be3a5cc1ec52e4762b222304c6f0607e7427"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "9a1c6c1a0ef77062ddb69e99c2b450051d1e96ab54ffa7de53618430eb5f6319"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "c8bc4ef2d44dddcd31a80140caf5b8a115780c101a16dd043449806eac352a5e"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ad5d4e7935301953b35fdc4dcc5b851fad984b82"
+git-tree-sha1 = "6240f4df96ec1a66849ef6bcd64e67041d2a4b64"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[CImGuiPack.download]]
-    sha256 = "259ef1b27928827df5adeff7e8352be64b7cbf3f9cd4ae28492a617f966148de"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "5502c09c913552894679ab54e2bc7a75d611cfaab65df2f831853c35be5e688f"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
-git-tree-sha1 = "a1ee1624e45192565df66178f0e8e1fe8cb17d24"
+git-tree-sha1 = "b563c755df6c3a7cd1ffe8def653e0a519ee7e1a"
 julia_version = "1.10.0"
 os = "freebsd"
 
     [[CImGuiPack.download]]
-    sha256 = "b5c44f1fec9cc270087867d0f2d7f6a0d1e709012cce680a314dac0d720591e2"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+    sha256 = "90ba1eb7c6a006fa98c8ab491aa2ec5f5870ad8b2e6de97db9cb8266337f94ea"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
-git-tree-sha1 = "1ba2046dceb497206b1d5a8e81a4c90aee0b012d"
+git-tree-sha1 = "c920c3ef94f637a73011158b79feb3eb21e41f9b"
 julia_version = "1.11.0"
 os = "freebsd"
 
     [[CImGuiPack.download]]
-    sha256 = "79138dd77aea692773aed82f598bcbf3444f54edfc486ad8f17e645d2672a2db"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-unknown-freebsd-julia_version+1.11.0.tar.gz"
+    sha256 = "ff9847e48b42db941b0cc891b3adb3f99ae1dd40f26465ff3a682ee998f044d4"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-unknown-freebsd-julia_version+1.11.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
-git-tree-sha1 = "e29657b397af998652fe73f195fc38245af5ae63"
+git-tree-sha1 = "f901a9711836dafc582ba48f40cd0037acb3ea95"
 julia_version = "1.12.0"
 os = "freebsd"
 
     [[CImGuiPack.download]]
-    sha256 = "4879c2f5db611a8e6841550c0f84b9054c099bebd9a43b2a40053e8b00c8214f"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    sha256 = "383603da4abce14bd9386d25dd2e93978e82fa93ba59ce1ee52e21773ee47ca7"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
-git-tree-sha1 = "f5f8bef3595efcedacd1b3410df47b58ecc6b61c"
+git-tree-sha1 = "58c02fb9a31c3f0f313050b47986cc87209cbfd5"
 julia_version = "1.6.3"
 os = "freebsd"
 
     [[CImGuiPack.download]]
-    sha256 = "a2a65dfcfc1dd98e5de723bbc1c43a0be36ce7aac1dd8d56b7c197d9c2a0dcee"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
+    sha256 = "4a9f7ce9742fd8e1161a2b339bab4e3140d63be909bdd4638fc95ecaf86f01df"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
-git-tree-sha1 = "fe0dbc5799d8e53aef2591ad023f7f76d737696a"
+git-tree-sha1 = "c16d84a6f7a1de911e1196c5426b576b169de390"
 julia_version = "1.7.0"
 os = "freebsd"
 
     [[CImGuiPack.download]]
-    sha256 = "ea953e7372144f29fcea6ea57d4510762783b62ebf01e2d4b16d7d4d2f7db789"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
+    sha256 = "a9d9ecff1ac8aa37ac17ce9959e0dabcbd3c248dceea78b3bebbd9a7e858e622"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
-git-tree-sha1 = "7d89bf91ebce2d36cb3c406293d3d6c8fcd150ee"
+git-tree-sha1 = "9a01331ba43b419bf084621128e32aac80f16015"
 julia_version = "1.8.2"
 os = "freebsd"
 
     [[CImGuiPack.download]]
-    sha256 = "f6d52754a33731079abbb88de32af7224d9011a035a98ff6574f334c092db1fd"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-unknown-freebsd-julia_version+1.8.2.tar.gz"
+    sha256 = "e4b1af0dfd3adb2ffca10d92c9a3097997a836a8f75d0d6643555428b448afc7"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-unknown-freebsd-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
-git-tree-sha1 = "bd2a97f4d0da90e2d18f556161fda3c5dd3c4347"
+git-tree-sha1 = "002c5a111e663f70ecd6ab46a1060874a938b57c"
 julia_version = "1.9.0"
 os = "freebsd"
 
     [[CImGuiPack.download]]
-    sha256 = "36fbbed1fcef322982332688d7a6c307f6ea4a8d879d1c4afe0bdadfa2b4f50f"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
+    sha256 = "8e641bbf1961d2e76ea8da330eff00492124dbe0a3c9b574c3af33a8ddbfc358"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7bc35a415e3ac2189651cbc0f1e1e6f248b0819b"
+git-tree-sha1 = "3d8fb0a75a303bfa5ed51485bf65e3b703d9c820"
 julia_version = "1.10.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "3092a773c54da2c14fbf084b9dc55944f2052bf0fe4456ea9e99d7b657836ff1"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "da007286c1abe40d3a685502eeaed4814b8e60860b19bdd091a6ea2f16a0dcce"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "41d651c61951316e422eb954412eafde748d6076"
+git-tree-sha1 = "365bb8abbbb60a7f2b9189f2f030ec0f9074e44c"
 julia_version = "1.11.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "058a33e854c96ca2d81ef9cd9c77571b3f2a05b99151c8a25117b2d598ebf006"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-w64-mingw32-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "3cc09740a5ce6c5f2b6369bc4d47268fec0d6a5513f9c564c9c23e3691b7568d"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-w64-mingw32-cxx03-julia_version+1.11.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8ef79e59ac249e367ad1ce0b4de32c5547f8b489"
+git-tree-sha1 = "a4cff0279a2ebf03fea846e03fe23f1f489f0bd8"
 julia_version = "1.12.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "aed8a9b8acc7d36d5bcb48542f504a9c9359bdd67b37662b4bc35170f4b7ba39"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "403b5bfb09fcde19f5ca4d873744256b8ecdf69027b5f369ebd93d965f4c140e"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ec51a5663c82aea55570152f6c3122b31b43f267"
+git-tree-sha1 = "76f5ff04df2bd9c67c7d148106f8d85aaec67d80"
 julia_version = "1.6.3"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "c6b23533fcef9939c773e32640d7e9d277d6fb6aed62f1223bfce0e3e7efb5fe"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "1637d30010c6f3d5d1bcc445b38bdcfad0bbd5036dd4ceb083d01e0e6584f6df"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "609fabe6b2d73d5030a56f033c7cfb9f89aebc4f"
+git-tree-sha1 = "2a212ca03f0cb73f261b5854c08d66ab05befa8c"
 julia_version = "1.7.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "2e47b7c04d2baa723aa350ad83a61ee210d506ee690d2e896cbba2905f549712"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "87d5d18cdf52b70d66284a1c1c38ed76593e776f30aa72c08a00c5c09f77d9ab"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "580aafbe126a03f8c796bace89503763ece33851"
+git-tree-sha1 = "d2dc7cc4e39f104b559bf19f265062385d2bde8e"
 julia_version = "1.8.2"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "fb489a4e26699f6d81b2f7bbf97684004593b9dd70d621811617a95bc6bccb13"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "dcbc2ebd2e511a6e71fbd3e12cc7917262fea0c6c9c688db632785660dade586"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "97d1a9b1a63352c74fe0e4e2afdefe6da544e245"
+git-tree-sha1 = "3061996d99d04b82e7845c7634d3dbc41250616a"
 julia_version = "1.9.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "682f38a600d2748618ee90595fe1abb8d4bd8cd453d98a8ff1f0f56d3b9ddf5f"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "f523b5d300534ed7f414c145656287f22810c6fdde0ca6f60e8a77da8dd861c3"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f2d78f98d4e70a70208cb425a9d58f11b17f7788"
+git-tree-sha1 = "1ae5ee8f56597e78e33712074547bc7ab8e12b48"
 julia_version = "1.10.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "fdec6b7c760afb8697b0ac2b987d8c13bcf9e2fa960b5c5ca903487a845c1aad"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "e5cad0e120e057cc3bcbf0ef4b9a9ab00ea0ea4eca4d6f192fe788f132a419d8"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1dcab5226bbca05ece6fc41d83b086a17228a602"
+git-tree-sha1 = "11ae73430da99b7209a7030dadb5b29084cdd8a4"
 julia_version = "1.11.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "7db3b6caa8a38d64ae2f5d5ab30ef159042c0f15bc1d9c0179705080f3326653"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "dfe2c387f00352d3363b8a7eddd5328394f1c79345366999b11b9be2ad3ff10e"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fe923631c06815820629b3ad671226049928553d"
+git-tree-sha1 = "993828ac7d9fe40442d3d4e61eeb9c97eb4ec58f"
 julia_version = "1.12.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "dcd09c301ada33c6a4632b9ee1aea1ca3d136ace9357db02077bd7680d44c1eb"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "6ef80d08645086dfd0a12b4a1a3e410cb4a541a31610032578f55bb233fe7aec"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "83dd4a61976c2ca498126dd0f9e9d6020ec31d03"
+git-tree-sha1 = "bc7af422196f58a850540494bfa8cce2663f7fba"
 julia_version = "1.6.3"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "bca261492322c0723083e513623c1e0c4c68a9262a1156a1e494333bb2703c68"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "3aedf1304cc2587862b4b010c87d3377dd52c6d0fea43e693300bd8012406615"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8fee762c256d16e4d899f0dda74ea6d7612a903d"
+git-tree-sha1 = "64b9874496f36cdee4f1cf8d89fa197bcbefbe65"
 julia_version = "1.7.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "96a94ec4137e6aeb1c6b8665989d2cca3c24268bc3621038abdd688fed708efa"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "6a2df57c705f0cde98df65bafed66cd85ea612f75832c5eb194dc63ffe747e60"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "623b3b32e62cd6a9f322ecda5cf9897423c68c37"
+git-tree-sha1 = "5d3144c6489b3f6baae6008186cb4602e24ab6d4"
 julia_version = "1.8.2"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "fc42761ce61c71a076e665390f0c27a32439f6ec84c1f0a5876b784409b71416"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "eb9881200469450eae1fe2b29cdf0a2fb356149075f0ed17f377d4ae6c8341d4"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
 [[CImGuiPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1cd150100dacb238fcf9335e58ce3ffbc2c26de1"
+git-tree-sha1 = "0300bb1975802f2cff05fd60aac163bff3ad0e4f"
 julia_version = "1.9.0"
 os = "windows"
 
     [[CImGuiPack.download]]
-    sha256 = "9e120dc8ada07f03cc46560f470e1b3b3293a8e3eaa13f767a46e75757679b55"
-    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.4.0+0/CImGuiPack.v0.4.0.x86_64-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "063aa8eb20cb577c33f24e39961b75b6755330c2c8602a11c8abf8655af9fe7e"
+    url = "https://github.com/JuliaBinaryWrappers/CImGuiPack_jll.jl/releases/download/CImGuiPack-v0.5.0+0/CImGuiPack.v0.5.0.x86_64-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
