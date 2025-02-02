@@ -1,6 +1,6 @@
 name = "CImGuiPack_jll"
 uuid = "333409e9-af72-5310-9767-d6ad21a76a05"
-version = "0.7.0+0"
+version = "0.7.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -10,8 +10,8 @@ GLFW_jll = "0656b61e-2033-5cc2-a64a-77c0f6c09b89"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
-JLLWrappers = "1.2.0"
-julia = "1.6"
+JLLWrappers = "1.7.0"
+julia = "1.9"
 libcxxwrap_julia_jll = "0.13.3"
 Libdl = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
