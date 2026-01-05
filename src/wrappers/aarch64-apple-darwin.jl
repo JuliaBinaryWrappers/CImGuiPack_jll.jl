@@ -2,6 +2,7 @@
 export cimgui_definitions, cimgui_impl_definitions, cimgui_structs_and_enums, cimgui_test_engine_definitions, cimgui_test_engine_structs_and_enums, cimgui_typedefs_dict, cimnodes_definitions, cimnodes_structs_and_enums, cimnodes_typedefs_dict, cimplot_definitions, cimplot_structs_and_enums, cimplot_typedefs_dict, compile_commands, libcimgui
 
 using GLFW_jll
+using Xorg_libX11_jll
 JLLWrappers.@generate_wrapper_header("CImGuiPack")
 JLLWrappers.@declare_file_product(cimgui_definitions)
 JLLWrappers.@declare_file_product(cimgui_impl_definitions)
@@ -18,7 +19,7 @@ JLLWrappers.@declare_file_product(cimplot_typedefs_dict)
 JLLWrappers.@declare_file_product(compile_commands)
 JLLWrappers.@declare_library_product(libcimgui, "@rpath/libcimgui.dylib")
 function __init__()
-    JLLWrappers.@generate_init_header(GLFW_jll)
+    JLLWrappers.@generate_init_header(GLFW_jll, Xorg_libX11_jll)
     JLLWrappers.@init_file_product(
         cimgui_definitions,
         "share/cimgui/definitions.json",
